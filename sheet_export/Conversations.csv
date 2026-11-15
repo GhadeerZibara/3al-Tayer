@@ -1,0 +1,6 @@
+phone,state,draft_json,updated_at
+telegram:8936390643,AWAITING_CHOICE,"{""lines"": [], ""pending"": [{""type"": ""qty"", ""code"": ""P010"", ""unit"": null}], ""lang"": ""arabic"", ""backorders"": [], ""flags"": [], ""last_reply"": ""قديش بدك من Pepsi 2.25L (Pepsi)؟"", ""chat"": [[""client"", ""badde otlob pepsi""], [""bot"", ""Ayya wa7ad baddak mn \""pepsi\""? / 1. Pepsi 1.25L (Pepsi) / 2. Pepsi 2.25L (Pepsi) / 3. Pepsi Can 330ml (Pepsi) / Jaweb bel ra2m aw bel esem.""], [""client"", ""2""], [""bot"", ""Addesh baddak mn Pepsi 2.25L (Pepsi)?""], [""client"", ""بدي بيبسي""], [""bot"", ""تمام. / قديش بدك من Pepsi 2.25L (Pepsi)؟""]], ""escalated_at"": null}",2026-11-15T16:35:36
+telegram:7202197526,IDLE,"{""lang"": ""arabizi""}",2026-11-15T15:19:05
+CLIENT,IDLE,{},2026-11-15T13:50:54
+NEW,IDLE,{},2026-11-15T13:50:52
+test:eval,IDLE,{},2026-11-15T16:40:22

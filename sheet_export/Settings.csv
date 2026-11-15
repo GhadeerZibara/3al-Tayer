@@ -1,0 +1,6 @@
+key,value
+usd_lbp_rate,89500
+lbp_rounding,1000
+flag_multiplier,3
+new_client_max_pieces,120
+flag_total_usd,500

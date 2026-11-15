@@ -1,0 +1,7 @@
+po_id,audit_id,date,code,name,cartons,pieces,code_suggested,reason,status
+AUD-1115-0807-1,AUD-1115-0807,2026-11-15 08:07,P009,Pepsi (Pepsi),7,42,7,"Demand +1080% this week (118 pieces vs ~10 average). Only 32 pieces left, about 6 days of cover. Quantity is the purchase_need suggestion for 14 days.",approved
+AUD-1115-0807-2,AUD-1115-0807,2026-11-15 08:07,P002,Corn Oil (Mazola),2,8,2,"Out of stock. Supermarket Al Amal is waiting for 5 pieces, since 14 Nov. Quantity is the purchase_need suggestion.",approved
+AUD-1115-0929-1,AUD-1115-0929,2026-11-15 09:29,P050,Oreo Biscuits (Oreo),12,288,12,Supermarket Al Amal is waiting for 290 pieces (oldest request 2026-11-15 04:47) and only 10 are available. Matches purchase_need.,rejected
+AUD-1115-0929-2,AUD-1115-0929,2026-11-15 09:29,P009,Pepsi (Pepsi),7,42,7,Demand rose from 10 to 118 pieces in the last 7 days (+1080%). Only 6.1 days of cover are left. Matches purchase_need for 14 days of cover.,rejected
+AUD-1115-0930-1,AUD-1115-0930,2026-11-15 09:30,P009,Pepsi (Pepsi),7,42,7,"Only 32 pieces left (about 6 days of cover). Sales were 118 pieces in the last 7 days against about 7-10 a week before, so the real need is probably higher. 7 cartons is purchase_need's figure, kept modest until the spike is explained.",approved
+AUD-1115-0945-1,AUD-1115-0945,2026-11-15 09:45,P009,Pepsi (Pepsi),7,42,7,"purchase_need for 14 days of cover; 32 pieces left (6 days). Sales were 118 last week vs about 7 usual, so the real need is uncertain, but 7 cartons is a small, low-risk buy.",approved
