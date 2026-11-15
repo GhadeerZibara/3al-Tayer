@@ -1,0 +1,26 @@
+# ---- secrets: NEVER commit ----
+.env
+.env.*
+!.env.example
+creds.json
+*.pem
+*service-account*.json
+
+# ---- local data and logs ----
+events.jsonl
+logs/
+eval_results.csv
+data/Conversations.csv
+data/Orders.csv
+data/OrderLines.csv
+data/Backorders.csv
+data/Escalations.csv
+
+# ---- Python / tools ----
+venv/
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db

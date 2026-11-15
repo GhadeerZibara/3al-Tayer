@@ -1,0 +1,8 @@
+anthropic
+groq
+python-dotenv
+gspread
+rapidfuzz
+python-telegram-bot
+streamlit
+pandas

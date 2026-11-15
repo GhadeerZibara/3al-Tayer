@@ -1,0 +1,6 @@
+order_id,phone,date,code,qty,unit
+OLD-1,whatsapp:+96170000001,2026-11-07,P001,5,piece
+OLD-1,whatsapp:+96170000001,2026-11-07,P004,2,carton
+OLD-1,whatsapp:+96170000001,2026-11-07,P011,3,piece
+OLD-2,whatsapp:+96170000002,2026-11-08,P007,4,carton
+OLD-2,whatsapp:+96170000002,2026-11-08,P009,10,piece

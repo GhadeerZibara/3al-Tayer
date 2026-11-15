@@ -1,0 +1,13 @@
+code,name,brand,category,size,unit,units_per_carton,price_usd_A,price_usd_B,keywords
+P001,Corn Oil 1.8L,Mazola,oil,1.8L,bottle,6,4.20,4.00,zeit zet زيت huile oil corn
+P002,Sunflower Oil 1.8L,Crystal,oil,1.8L,bottle,6,3.60,3.40,zeit zet زيت huile oil sunflower
+P003,Pepsi Can 330ml,Pepsi,soft drinks,330ml,can,24,0.45,0.42,pepsi bebsi بيبسي can tanak
+P004,Pepsi 1.25L,Pepsi,soft drinks,1.25L,bottle,12,0.90,0.85,pepsi bebsi بيبسي bottle 2nineh
+P005,Pepsi 2.25L,Pepsi,soft drinks,2.25L,bottle,6,1.30,1.25,pepsi bebsi بيبسي kbir big
+P006,7Up Can 330ml,7Up,soft drinks,330ml,can,24,0.45,0.42,7up seven up سفن اب can
+P007,Water 1.5L,Sohat,water,1.5L,bottle,6,0.35,0.33,mayy mai ma2 مي مياه water eau sohat
+P008,Water 0.5L,Sohat,water,0.5L,bottle,12,0.20,0.18,mayy mai ma2 مي مياه water eau sohat zghir small
+P009,Sugar 1kg,Generic,sugar,1kg,bag,10,1.10,1.05,sukkar sekkar سكر sucre sugar
+P010,Egyptian Rice 5kg,Generic,rice,5kg,bag,4,6.50,6.20,ruz rez رز riz rice
+P011,Tissues 200 sheets,Fine,tissues,200,box,30,0.80,0.75,kleenex mahrem محارم fine tissue mouchoir
+P012,Spaghetti 500g,Generic,pasta,500g,pack,20,0.70,0.65,spaghetti ma3karoneh معكرونة pasta
